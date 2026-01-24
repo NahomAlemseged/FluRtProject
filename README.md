@@ -1,4 +1,3 @@
 # FluRtProject
-This study i maninly focuses on assessing the overall spario temporal correlation among countries and variants. 
 
-![preview](artifacts/Rplot.png)
+This project analyzes spatio-temporal correlations among influenza variants.

@@ -1,3 +1,3 @@
 # FluRtProject
 
-This project analyzes spatio-temporal correlations among influenza variants.
+This project analyzes spatio-temporal correlations among influenza Subtypes.

@@ -1,0 +1,13 @@
+Country,WHO Region,Hemisphere,Vaccine Recommendation Source
+United States,AMR,NH,NH WHO recommendation
+China,WPR,NH,NH WHO recommendation
+Singapore,WPR,NH / Equatorial,NH or SH WHO recommendation depending on local flu activity
+Pakistan,SEAR,NH,NH WHO recommendation
+Ghana,AFR,NH,NH WHO recommendation
+United Arab Emirates,EMR,NH,NH WHO recommendation
+Australia,WPR,SH,SH WHO recommendation
+Peru,AMR,SH,SH WHO recommendation
+Mozambique,AFR,SH,SH WHO recommendation
+Brazil,AMR,SH,SH WHO recommendation
+Indonesia,SEAR,SH / Equatorial,SH or NH WHO recommendation depending on local flu activity
+South Africa,AFR,SH,SH WHO recommendation

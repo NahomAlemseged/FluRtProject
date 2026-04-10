@@ -1,0 +1,13 @@
+Country,WHO Region,Hemisphere,Age_0_14,Age_15_64,Age_65_plus,Median_Age,Major_Comorbidities,Comorbidity_Level
+United States,AMR,NH,18%,65%,17%,38,"Obesity, diabetes, cardiovascular disease",High
+China,WPR,NH,17%,68%,15%,39,"Hypertension, smoking-related disease, diabetes",High
+Singapore,WPR,NH,12%,72%,16%,42,"Diabetes, aging-related chronic disease",High
+Pakistan,SEAR,NH,35%,60%,5%,22,"Infectious disease burden, rising diabetes",Medium
+Ghana,AFR,NH,38%,58%,4%,21,"Malaria, respiratory infections, low chronic disease",Medium
+United Arab Emirates,EMR,NH,14%,84%,2%,33,"Diabetes, obesity (especially expat population)",High
+Australia,WPR,SH,19%,64%,17%,38,"Cardiovascular disease, obesity, aging population",High
+Peru,AMR,SH,25%,66%,9%,31,"Respiratory infections, moderate chronic disease",Medium
+Mozambique,AFR,SH,44%,53%,3%,18,"HIV, TB, malaria",High
+Brazil,AMR,SH,21%,69%,10%,33,"Obesity, diabetes, cardiovascular disease",High
+Indonesia,SEAR,SH,27%,67%,6%,30,Infectious + rising metabolic disease,Medium
+South Africa,AFR,SH,28%,65%,7%,28,"HIV, TB, hypertension",High
